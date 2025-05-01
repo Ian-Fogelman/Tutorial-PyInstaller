@@ -10,5 +10,7 @@ For details about pyinstaller, see [pyinstaller docs](https://pyinstaller.org/en
 5. (optional) add the .exe to your path variable
 6. (optional) access help menu: `./greet.exe --help`
 7. To execute: `./greet Ian`
-Results:
-    ![alt text](image.png)
+
+    Results:
+
+        ![alt text](image.png)
