@@ -12,5 +12,4 @@ For details about pyinstaller, see [pyinstaller docs](https://pyinstaller.org/en
 7. To execute: `./greet Ian`
 
     Results:
-
         ![alt text](image.png)
